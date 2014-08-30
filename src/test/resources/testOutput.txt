@@ -1,0 +1,42 @@
+00050A010203 = [
+	{
+		evCode = 0,
+		hwAddress = '00050A010203',
+		time = 2014-07-12 10:20:39,
+		md5Hex = 'cf29de9e514d59ed03f33cdd5376520c'
+	},
+	{
+		evCode = 0,
+		hwAddress = '00050A010203',
+		time = 2014-08-08 15:37:00,
+		md5Hex = 'b79b631054171dea899cf0bcdf1fbdc1'
+	},
+	{
+		evCode = 1,
+		hwAddress = '00050A010203',
+		time = 2014-08-01 14:10:05,
+		md5Hex = 'e99bb926a03cdacfe2615889ee7271c5'
+	}
+],
+00050A01EFAC = [
+	{
+		evCode = 12,
+		hwAddress = '00050A01EFAC',
+		time = 2014-08-01 20:12:22,
+		md5Hex = '63101a91c3c174874b0081b965c43410'
+	}
+],
+00050A0112AC = [
+	{
+		evCode = 0,
+		hwAddress = '00050A0112AC',
+		time = 2014-08-01 23:54:34,
+		md5Hex = '2b5a7f19ff072af9970f9d5334a726ec'
+	},
+	{
+		evCode = 0,
+		hwAddress = '00050A0112AC',
+		time = 2014-08-01 23:59:12,
+		md5Hex = '46a925876ba2781bb28b185338d39a24'
+	}
+]
